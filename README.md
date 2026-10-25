@@ -8,7 +8,7 @@
   <br/>
 </div>
 
-Backend-focused software engineer. At work I build real-time data acquisition and monitoring systems for manufacturing facilities. Outside of work I build Python and TypeScript backends, most recently **DataBull**, a time-series telemetry platform with a Claude tool-calling agent for querying sensor data in plain English.
+Backend-focused software engineer. At work I build real-time data acquisition and monitoring systems for manufacturing facilities. Outside of work I build full-stack, AI-integrated applications with Python, TypeScript, React, PostgreSQL, and Docker, most recently **DataBull**, a time-series telemetry platform with a Claude tool-calling agent for querying sensor data in plain English.
 
 - 🏭 SCADA Engineer II @ Q-mation
 - 🎓 Computer Science @ Boston University
@@ -20,18 +20,16 @@ Backend-focused software engineer. At work I build real-time data acquisition an
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
 | **[DataBull](https://github.com/abirislam910/databull)** | Time-series sensor telemetry API: bulk ingest into TimescaleDB, avg/min/max/p95 rollups, multi-tenant JWT auth, a Claude agent with a replayable 30-case eval suite, and the same tools exposed as an MCP server | FastAPI · PostgreSQL · TimescaleDB · React · Docker |
-| **[Kree](https://github.com/abirislam910/Kree)** &nbsp;([live](https://kree-app.vercel.app)) | Turns a location into a lo-fi study scene: an AI-generated background plus an instrumental track from ElevenLabs Music, saved per user | Express · React · Supabase · ElevenLabs API · Docker |
+| **[Kree](https://github.com/abirislam910/Kree)** &nbsp;([Live](https://kree-app.vercel.app)) | Turns a location into a lo-fi study scene: an AI-generated background plus an instrumental track from ElevenLabs Music, saved per user | Express · React · Supabase · ElevenLabs API · Docker |
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirislam910&show_icons=true&theme=dark&title_color=2DD4BF&text_color=c9d1d9&icon_color=2DD4BF&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirislam910&theme=dark&mode=weekly&fire=2DD4BF&ring=2DD4BF&currStreakLabel=2DD4BF&background=0d1117&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirislam910&layout=compact&theme=dark&title_color=2DD4BF&text_color=c9d1d9&icon_color=2DD4BF&hide_border=true&langs_count=6&hide=html,css&bg_color=0d1117" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abirislam910&bg_color=0d1117&color=c9d1d9&line=2DD4BF&point=2DD4BF&area=true&hide_border=true" height="150" alt="activity graph" />
 </div>
 
 <br />
