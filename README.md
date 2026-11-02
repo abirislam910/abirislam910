@@ -68,16 +68,18 @@ Backend-focused software engineer. At work I build real-time data acquisition an
 </div>
 
 <p align="center"><samp>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;&nbsp;_.-oOo~~~~~~~oOo-._&nbsp;&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;.oO'&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;'Oo.&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;.O'&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;o'&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;'o&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;<br>
-(&nbsp;&nbsp;&nbsp;<img src="koi/koi.gif" width="200" align="middle" alt="My koi" />&nbsp;&nbsp;&nbsp;)<br>
-&nbsp;&nbsp;(&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;~&nbsp;)&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;o.&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;.o&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.O'&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;'Oo.&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;.oO'&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;,v,&nbsp;&nbsp;&nbsp;'-._oOo_______oOo_.-'&nbsp;&nbsp;&nbsp;,v,&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;✨&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦋&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌾&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;🌾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_.--~~~--oOo-~~~~-oOo--~~~--._&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;.-oOo''&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;''oOo-.&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.-O'&nbsp;&nbsp;&nbsp;🍃&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍃&nbsp;&nbsp;&nbsp;'O-.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;.O'&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;<br>
+(&nbsp;&nbsp;&nbsp;🌸&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;<img src="koi/koi.gif" width="264" align="middle" alt="My koi" />&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;🌸&nbsp;&nbsp;&nbsp;)<br>
+&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;🐸&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐸&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;.O'&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'-O.&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;&nbsp;&nbsp;~~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱&nbsp;&nbsp;&nbsp;.O-'&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;'-oOo..&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..oOo-'&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;,v,&nbsp;&nbsp;,v,&nbsp;&nbsp;&nbsp;'--.__oOo-__________________-oOo__.--'&nbsp;&nbsp;&nbsp;,v,&nbsp;&nbsp;,v,&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,v,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌼&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,v,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🍄&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </samp></p>
