@@ -17,24 +17,17 @@ Backend-focused software engineer. At work I build real-time data acquisition an
 
 ### Featured projects
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[DataBull](https://github.com/abirislam910/databull)** | Time-series sensor telemetry API: bulk ingest into TimescaleDB, avg/min/max/p95 rollups, multi-tenant JWT auth, a Claude agent with a replayable 30-case eval suite, and the same tools exposed as an MCP server | FastAPI · PostgreSQL · TimescaleDB · React · Docker |
-| **[Kree](https://github.com/abirislam910/Kree)** &nbsp;([Live](https://kree-app.vercel.app)) | Turns a location into a lo-fi study scene: an AI-generated background plus an instrumental track from ElevenLabs Music, saved per user | Express · React · Supabase · ElevenLabs API · Docker |
+| Project | Repo | Deployment | What it does | Built with |
+| :-- | :-- | :-- | :-- | :-- |
+| **DataBull** | [Repo](https://github.com/abirislam910/databull) | Coming Soon | Time-series sensor telemetry API: bulk ingest into TimescaleDB, avg/min/max/p95 rollups, multi-tenant JWT auth, a Claude agent with a replayable 30-case eval suite, and the same tools exposed as an MCP server | FastAPI · PostgreSQL · TimescaleDB · React · Docker |
+| **Kree** | [Repo](https://github.com/abirislam910/Kree)| [Live](https://kree-app.vercel.app) | Turns a location into a lo-fi study scene: an AI-generated background plus an instrumental track from ElevenLabs Music, saved per user | Express · React · Supabase · ElevenLabs API · Docker |
 
 <br />
-
-<img src="koi/koi.gif" width="256" alt="My koi" />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirislam910&theme=dark&mode=weekly&fire=2DD4BF&ring=2DD4BF&currStreakLabel=2DD4BF&background=0d1117&hide_border=true" height="150" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirislam910&layout=compact&theme=dark&title_color=2DD4BF&text_color=c9d1d9&icon_color=2DD4BF&hide_border=true&langs_count=6&hide=html,css&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br />
 <br />
 
 <p align="center">
@@ -67,3 +60,24 @@ Backend-focused software engineer. At work I build real-time data acquisition an
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
+
+<div align="center">
+  <h1 align="center">🌿🪷💧Terry's Pond💧🪷🌿</h1>
+  <p align="center">Terry is a koi fish that reacts to my account activity. His color, speed, and movement change based on the languages I use, how many commits I push, and my active streak!</p>
+  <br/>
+</div>
+
+<p align="center"><samp>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;'&nbsp;&nbsp;&nbsp;&nbsp;,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;\|/&nbsp;&nbsp;&nbsp;&nbsp;_.-oOo~~~~~~~oOo-._&nbsp;&nbsp;&nbsp;&nbsp;\|/&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;.oO'&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;'Oo.&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;.O'&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;o'&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;'o&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;(&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;)&nbsp;&nbsp;<br>
+(&nbsp;&nbsp;&nbsp;<img src="koi/koi.gif" width="200" align="middle" alt="My koi" />&nbsp;&nbsp;&nbsp;)<br>
+&nbsp;&nbsp;(&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;~&nbsp;)&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;o.&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;&nbsp;&nbsp;&nbsp;~&nbsp;.o&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;'O.&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;.O'&nbsp;&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;v&nbsp;&nbsp;'Oo.&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;.&nbsp;&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;.oO'&nbsp;&nbsp;v&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;,v,&nbsp;&nbsp;&nbsp;'-._oOo_______oOo_.-'&nbsp;&nbsp;&nbsp;,v,&nbsp;&nbsp;
+</samp></p>
