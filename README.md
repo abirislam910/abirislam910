@@ -24,6 +24,8 @@ Backend-focused software engineer. At work I build real-time data acquisition an
 
 <br />
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirislam910&theme=dark&mode=weekly&fire=2DD4BF&ring=2DD4BF&currStreakLabel=2DD4BF&background=0d1117&hide_border=true" height="150" alt="streak graph" />
 </div>
